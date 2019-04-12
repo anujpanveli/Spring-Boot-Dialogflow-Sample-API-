@@ -1,0 +1,7 @@
+com\dialogflow\app\Application.class
+com\dialogflow\app\model\speech.class
+com\dialogflow\app\model\data.class
+com\dialogflow\app\model\payload.class
+com\dialogflow\app\controller\AppController.class
+com\dialogflow\app\model\fulfillmentText.class
+com\dialogflow\app\service\AppService.class
